@@ -65,13 +65,13 @@ python3 gerar_grafico.py
 
 ## 📊 Exemplo de Relatório
 
-![Relatório CSV](screenshots/2_relatorio_csv.png)
+![Relatório CSV](https://raw.githubusercontent.com/marcioaugustomazzochi/lgpd-scanner/main/screenshots/2_relatorio_csv.png)
 
 ---
 
 ## 📈 Exemplo de Visualização Gráfica
 
-![Gráfico](screenshots/3_grafico.png)
+![Gráfico](https://raw.githubusercontent.com/marcioaugustomazzochi/lgpd-scanner/main/screenshots/3_grafico.png)
 
 ---
 
