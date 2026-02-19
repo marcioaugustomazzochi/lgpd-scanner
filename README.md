@@ -63,18 +63,6 @@ python3 gerar_grafico.py
 
 ---
 
-## 📊 Exemplo de Relatório
-
-relatórios/relatório_scan.csv
-
----
-
-## 📈 Exemplo de Visualização Gráfica
-
-![Gráfico](https://raw.githubusercontent.com/marcioaugustomazzochi/lgpd-scanner/main/screenshots/3_grafico.png)
-
----
-
 ## 📂 Estrutura do Projeto
 
 ~~~
