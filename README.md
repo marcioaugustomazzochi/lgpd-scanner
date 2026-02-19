@@ -14,7 +14,7 @@ O **LGPD Scanner** é uma ferramenta desenvolvida em Python para detectar automa
 
 - 📧 Emails  
 - 🆔 CPF  
-- 💳 Cartões de crédito  
+- 💳 Cards de crédito  
 
 O sistema gera relatórios estruturados e gráficos estatísticos para apoiar processos de adequação à **Lei Geral de Proteção de Dados (LGPD)**.
 
