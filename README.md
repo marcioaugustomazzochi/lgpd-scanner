@@ -1,10 +1,8 @@
 # 🛡️ LGPD Scanner  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue">
-  <img src="https://img.shields.io/badge/Status-Concluído-success">
-  <img src="https://img.shields.io/badge/License-MIT-green">
-</p>
+![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue)
+![Status Concluído](https://img.shields.io/badge/Status-Concluído-success)
+![License MIT](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
