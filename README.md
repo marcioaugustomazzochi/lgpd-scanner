@@ -32,7 +32,7 @@ O sistema gera relatórios estruturados e gráficos estatísticos para apoiar pr
 
 ## 🚀 Instalação
 
-~~~bash
+```bash
 git clone https://github.com/SEU_USUARIO/lgpd-scanner.git
 cd lgpd-scanner
 
@@ -40,43 +40,22 @@ python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
-
----
-
-## ▶️ Execução
-
-~~~bash
+▶️ Execução
 python3 scanner.py
-~~~
-
 Após a execução:
 
-- 📄 O relatório será salvo em `reports/relatorio_scan.csv`
-- 📊 O gráfico será salvo em `reports/grafico_tipo.png`
+📄 O relatório será salvo em reports/relatorio_scan.csv
+
+📊 O gráfico será salvo em reports/grafico_tipo.png
 
 Para gerar apenas o gráfico:
 
-~~~bash
 python3 gerar_grafico.py
-~~~
+📊 Exemplo de Relatório
 
----
+📈 Exemplo de Visualização Gráfica
 
-## 📊 Exemplo de Relatório
-
-![Relatório CSV](screenshots/2_relatorio_csv.png)
-
----
-
-## 📈 Exemplo de Visualização Gráfica
-
-![Gráfico](screenshots/3_grafico.png)
-
----
-
-## 📂 Estrutura do Projeto
-
-~~~
+📂 Estrutura do Projeto
 lgpd_scanner/
 │
 ├── data/
@@ -86,52 +65,49 @@ lgpd_scanner/
 ├── gerar_grafico.py
 ├── requirements.txt
 └── README.md
-~~~
+🛠 Tecnologias Utilizadas
+Python 3
 
----
+Pandas
 
-## 🛠 Tecnologias Utilizadas
+Matplotlib
 
-- Python 3  
-- Pandas  
-- Matplotlib  
-- Regex  
-- Rich  
-- Git & GitHub  
+Regex
 
----
+Rich
 
-## 🎯 Objetivo Técnico
+Git & GitHub
 
+🎯 Objetivo Técnico
 Este projeto demonstra:
 
-- Manipulação de arquivos  
-- Processamento de dados com Pandas  
-- Uso de Expressões Regulares  
-- Geração de relatórios automatizados  
-- Criação de visualizações com Matplotlib  
-- Organização de projeto para portfólio  
+Manipulação de arquivos
 
----
+Processamento de dados com Pandas
 
-## 📌 Melhorias Futuras
+Uso de Expressões Regulares
 
-- 🌐 Interface Web (Flask ou FastAPI)  
-- 📊 Dashboard interativo  
-- 📄 Exportação em PDF  
-- 🗄 Integração com banco de dados  
-- 🔍 Análise recursiva de diretórios  
+Geração de relatórios automatizados
 
----
+Criação de visualizações com Matplotlib
 
-## 👨‍💻 Autor
+Organização de projeto para portfólio
 
-**Marcio Augusto Mazzochi**  
-Tecnólogo em Segurança da Informação  
+📌 Melhorias Futuras
+🌐 Interface Web (Flask ou FastAPI)
+
+📊 Dashboard interativo
+
+📄 Exportação em PDF
+
+🗄 Integração com banco de dados
+
+🔍 Análise recursiva de diretórios
+
+👨‍💻 Autor
+Marcio Augusto Mazzochi
+Tecnólogo em Segurança da Informação
 MBA em Cibersegurança e Gestão de Riscos (cursando)
 
----
-
-## 📜 Licença
-
+📜 Licença
 Este projeto está sob a licença MIT.
