@@ -62,11 +62,12 @@ python3 gerar_grafico.py
 
 O projeto demonstra:
 
-✔ Implementação prática de análise de dados sensíveis  
-✔ Aplicação de conceitos da LGPD  
-✔ Automação de geração de relatórios  
-✔ Organização estrutural de projeto  
-✔ Documentação técnica adequada  
+✔ Implementação prática de identificação de dados sensíveis  
+✔ Aplicação de princípios da LGPD  
+✔ Automação de geração de relatórios e visualizações  
+✔ Uso de Expressões Regulares para detecção de padrões  
+✔ Organização estrutural adequada para portfólio profissional  
+✔ Documentação técnica baseada em evidências  
 
 ---
 
