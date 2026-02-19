@@ -12,7 +12,7 @@ O objetivo é demonstrar tecnicamente o funcionamento da ferramenta, desde a pre
 
 ## 📸 Evidência:
 
-<img src="https://github.com/user-attachments/assets/c31d1269-66f8-487b-b021-69bf059e9e9d" width="900">
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/2b7dfe21-e05a-4679-8982-09068f6a7059" />
 
 ## 🔧 Comandos Executados:
 
@@ -26,9 +26,7 @@ pip install -r requirements.txt
 
 # 🔍 2. Execução do Scanner
 
-## 📸 Evidência:
-
-<img src="https://github.com/user-attachments/assets/5e677bf1-ff77-462b-aaa7-5435d30841fd" width="900">
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/ff4c7d61-95aa-4958-b80b-c6af1c93880f" />
 
 ## 🔧 Comando Executado:
 
@@ -40,7 +38,7 @@ python3 scanner.py
 
 ## 📸 Evidência:
 
-<img src="https://github.com/user-attachments/assets/dbb2b01b-9dfc-45e7-a4ab-2db3babd9f3e" width="900">
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/2abb6e5c-3aa0-4e2e-abeb-392c61802786" />
 
 Arquivo gerado:
 
@@ -52,7 +50,7 @@ reports/relatorio_scan.csv
 
 ## 📸 Evidência:
 
-<img src="https://github.com/user-attachments/assets/e24a507e-d416-4fe3-be8f-4dc0ed9870e7" width="900">
+<img width="1920" height="936" alt="Print 4" src="https://github.com/user-attachments/assets/b6a7cb93-658b-4560-a3c6-c2ebee356f0b" />
 
 Comando executado:
 
