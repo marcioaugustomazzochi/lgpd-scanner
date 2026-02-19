@@ -82,7 +82,7 @@ lgpd_scanner/
 - Python 3  
 - Pandas  
 - Matplotlib  
-- Expressões Regulares  
+- Expressões Regulares (Regex) 
 - Git & GitHub  
 
 ---
