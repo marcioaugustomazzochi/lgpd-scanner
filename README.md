@@ -1,68 +1,59 @@
-# 🛡️ LGPD Scanner
+# 🛡️ LGPD Scanner  
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Status](https://img.shields.io/badge/Status-Concluído-success)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue">
+  <img src="https://img.shields.io/badge/Status-Concluído-success">
+  <img src="https://img.shields.io/badge/License-MIT-green">
+</p>
 
-Ferramenta desenvolvida em **Python** para identificar dados sensíveis em arquivos de texto, como:
+---
+
+## 🔎 Sobre o Projeto
+
+O **LGPD Scanner** é uma ferramenta desenvolvida em Python para detectar automaticamente dados sensíveis em arquivos de texto, como:
 
 - 📧 Emails  
 - 🆔 CPF  
 - 💳 Cartões de crédito  
 
-O sistema gera relatórios estruturados e gráficos estatísticos para auxiliar na conformidade com a **Lei Geral de Proteção de Dados (LGPD)**.
+O sistema gera relatórios estruturados e gráficos estatísticos para apoiar processos de adequação à **Lei Geral de Proteção de Dados (LGPD)**.
+
+---
+
+## ⚙️ Funcionalidades
+
+✔️ Varredura automática de arquivos  
+✔️ Identificação via Expressões Regulares (Regex)  
+✔️ Classificação de nível de risco  
+✔️ Geração de relatório CSV  
+✔️ Geração de gráfico estatístico  
 
 ---
 
 ## 🚀 Instalação
 
 ```bash
-# Criar diretório do projeto
-mkdir -p ~/lgpd_scanner
-cd ~/lgpd_scanner
+git clone https://github.com/SEU_USUARIO/lgpd-scanner.git
+cd lgpd-scanner
 
-# Criar ambiente virtual
 python3 -m venv venv
 source venv/bin/activate
 
-# Instalar dependências
-pip install pandas matplotlib rich
+pip install -r requirements.txt
 ▶️ Execução
 python3 scanner.py
-O sistema irá:
+Após a execução:
 
-✔️ Analisar arquivos da pasta data/
+📄 O relatório será salvo em reports/relatorio_scan.csv
 
-✔️ Identificar dados sensíveis
+📊 O gráfico será salvo em reports/grafico_tipo.png
 
-✔️ Classificar o nível de risco
-
-✔️ Gerar relatório CSV automaticamente
-
-📊 Relatório Gerado
-O relatório é salvo em:
-
-reports/relatorio_scan.csv
-Ele contém:
-
-Arquivo analisado
-
-Tipo de dado encontrado
-
-Valor identificado
-
-Nível de risco (Médio ou Alto)
-
-📸 Exemplo do relatório:
-
-📈 Geração de Gráficos
-Para visualizar estatísticas dos dados encontrados:
+Para gerar apenas o gráfico:
 
 python3 gerar_grafico.py
-O gráfico será salvo em:
+📊 Exemplo de Relatório
 
-reports/grafico_tipo.png
-📸 Distribuição dos tipos de dados:
+📈 Exemplo de Visualização Gráfica
 
 📂 Estrutura do Projeto
 lgpd_scanner/
@@ -70,10 +61,6 @@ lgpd_scanner/
 ├── data/
 ├── reports/
 ├── screenshots/
-│   ├── 1_terminal_scan.png
-│   ├── 2_relatorio_csv.png
-│   └── 3_grafico.png
-│
 ├── scanner.py
 ├── gerar_grafico.py
 ├── requirements.txt
@@ -91,23 +78,34 @@ Rich
 
 Git & GitHub
 
-🔐 Objetivo do Projeto
-Demonstrar como automatizar a detecção de dados sensíveis em arquivos locais, gerar relatórios estruturados e produzir visualizações gráficas para apoiar processos de adequação à LGPD.
+🎯 Objetivo Técnico
+Este projeto demonstra:
+
+Manipulação de arquivos
+
+Processamento de dados com Pandas
+
+Uso de Expressões Regulares
+
+Geração de relatórios automatizados
+
+Criação de visualizações com Matplotlib
+
+Organização de projeto para portfólio
 
 📌 Melhorias Futuras
-Interface Web
+🌐 Interface Web (Flask ou FastAPI)
 
-Dashboard interativo
+📊 Dashboard interativo
 
-Exportação em PDF
+📄 Exportação em PDF
 
-Integração com banco de dados
+🗄 Integração com banco de dados
 
-Análise recursiva de diretórios
+🔍 Análise recursiva de diretórios
 
 👨‍💻 Autor
 Seu Nome Aqui
 
 📜 Licença
 Este projeto está sob a licença MIT.
-
