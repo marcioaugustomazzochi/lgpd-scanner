@@ -54,9 +54,6 @@ Valor identificado
 Nível de risco (Médio ou Alto)
 
 📸 Exemplo do relatório:
-![Relatório CSV](screenshots/2_relatorio_csv.png)
-Ou simplesmente:
-
 
 📈 Geração de Gráficos
 Para visualizar estatísticas dos dados encontrados:
@@ -113,3 +110,4 @@ Seu Nome Aqui
 
 📜 Licença
 Este projeto está sob a licença MIT.
+
