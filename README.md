@@ -65,7 +65,7 @@ python3 gerar_grafico.py
 
 ## 📊 Exemplo de Relatório
 
-![Relatório CSV](https://raw.githubusercontent.com/marcioaugustomazzochi/lgpd-scanner/main/screenshots/2_relatorio_csv.png)
+relatórios/relatório_scan.csv
 
 ---
 
