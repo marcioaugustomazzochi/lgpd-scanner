@@ -85,7 +85,7 @@ lgpd_scanner/
 - Pandas  
 - Matplotlib  
 - Expressões Regulares  
-- Ric 
+- Rick
 - Git & GitHub  
 
 ---
