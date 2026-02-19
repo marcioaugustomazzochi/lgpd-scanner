@@ -11,7 +11,7 @@ O objetivo é demonstrar tecnicamente o funcionamento da ferramenta, desde a pre
 # 🖥️ 1. Preparação do Ambiente
 
 ## 📸 Evidência:
-screenshots/1_terminal_scan.png
+screenshots/1_terminal_scan.png <img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/c31d1269-66f8-487b-b021-69bf059e9e9d" />
 
 ## 🔧 Comandos Executados:
 
@@ -32,7 +32,7 @@ Instalação das bibliotecas necessárias para execução do projeto.
 # 🔍 2. Execução do Scanner
 
 ## 📸 Evidência:
-screenshots/1_terminal_scan.png
+screenshots/1_terminal_scan.png <img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/5e677bf1-ff77-462b-aaa7-5435d30841fd" />
 
 ## 🔧 Comando Executado:
 
@@ -56,7 +56,7 @@ Durante esta etapa, o sistema:
 # 📊 3. Geração do Relatório
 
 ## 📸 Evidência:
-screenshots/2_relatorio_csv.png
+screenshots/2_relatorio_csv.png <img width="1920" height="936" alt="Relatório 4" src="https://github.com/user-attachments/assets/dbb2b01b-9dfc-45e7-a4ab-2db3babd9f3e" />
 
 ## 📂 Arquivo Gerado:
 
@@ -78,7 +78,7 @@ O arquivo pode ser aberto em ferramentas como Excel ou LibreOffice para análise
 # 📈 4. Geração do Gráfico Estatístico
 
 ## 📸 Evidência:
-screenshots/3_grafico.png
+screenshots/3_grafico.png <img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/e24a507e-d416-4fe3-be8f-4dc0ed9870e7" />
 
 ## 🔧 Comando Executado:
 
