@@ -106,6 +106,8 @@ Organização de projeto para portfólio
 
 👨‍💻 Autor
 Marcio Augusto Mazzochi
+Tecnológo em Segurança da Informação
+MBA em Cibersegurança e Gestão de Riscos (cursando)
 
 📜 Licença
 Este projeto está sob a licença MIT.
