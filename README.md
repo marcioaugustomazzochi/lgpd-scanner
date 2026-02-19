@@ -105,7 +105,7 @@ Organização de projeto para portfólio
 🔍 Análise recursiva de diretórios
 
 👨‍💻 Autor
-Seu Nome Aqui
+Marcio Augusto Mazzochi
 
 📜 Licença
 Este projeto está sob a licença MIT.
