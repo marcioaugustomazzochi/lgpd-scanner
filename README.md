@@ -14,7 +14,7 @@ O **LGPD Scanner** é uma ferramenta desenvolvida em Python para detectar automa
 
 - 📧 Emails  
 - 🆔 CPF  
-- 💳 Cards de crédito  
+- 💳 Credit Card Numbers  
 
 O sistema gera relatórios estruturados e gráficos estatísticos para apoiar processos de adequação à **Lei Geral de Proteção de Dados (LGPD)**.
 
@@ -33,7 +33,7 @@ O sistema gera relatórios estruturados e gráficos estatísticos para apoiar pr
 ## 🚀 Instalação
 
 ~~~bash
-git clone https://github.com/SEU_USUARIO/lgpd-scanner.git
+git clone https://github.com/marcioaugustomazzochi/lgpd-scanner.git
 cd lgpd-scanner
 
 python3 -m venv venv
@@ -96,7 +96,7 @@ lgpd_scanner/
 - Python 3  
 - Pandas  
 - Matplotlib  
-- Expressões Regulares
+- Expressões Regulares  
 - Rich  
 - Git & GitHub  
 
