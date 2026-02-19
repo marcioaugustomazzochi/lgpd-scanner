@@ -96,7 +96,7 @@ lgpd_scanner/
 - Python 3  
 - Pandas  
 - Matplotlib  
-- Exprressões Regulares
+- Expressões Regulares
 - Rich  
 - Git & GitHub  
 
